@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TriFibonacci/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TriFibonacci.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TriFibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TriFibonacci/1.0.0": {
+      "type": "project",
+      "path": "../TriFibonacci/TriFibonacci.csproj",
+      "msbuildProject": "../TriFibonacci/TriFibonacci.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "TriFibonacci >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\acharpe\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\acharpe\\source\\repos\\TriFibonacci\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectName": "XUnitTestProject1",
+      "projectPath": "C:\\Users\\acharpe\\source\\repos\\TriFibonacci\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "packagesPath": "C:\\Users\\acharpe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\acharpe\\source\\repos\\TriFibonacci\\XUnitTestProject1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\acharpe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {
+            "C:\\Users\\acharpe\\source\\repos\\TriFibonacci\\TriFibonacci\\TriFibonacci.csproj": {
+              "projectPath": "C:\\Users\\acharpe\\source\\repos\\TriFibonacci\\TriFibonacci\\TriFibonacci.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {}
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\acharpe\source\repos\TriFibonacci\TriFibonacci\bin\Debug\TriFibonacci.exe.config
+C:\Users\acharpe\source\repos\TriFibonacci\TriFibonacci\bin\Debug\TriFibonacci.exe
+C:\Users\acharpe\source\repos\TriFibonacci\TriFibonacci\bin\Debug\TriFibonacci.pdb
+C:\Users\acharpe\source\repos\TriFibonacci\TriFibonacci\obj\Debug\TriFibonacci.csprojAssemblyReference.cache
+C:\Users\acharpe\source\repos\TriFibonacci\TriFibonacci\obj\Debug\TriFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\acharpe\source\repos\TriFibonacci\TriFibonacci\obj\Debug\TriFibonacci.exe
+C:\Users\acharpe\source\repos\TriFibonacci\TriFibonacci\obj\Debug\TriFibonacci.pdb
